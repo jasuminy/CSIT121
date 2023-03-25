@@ -1,0 +1,27 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: yellow;
+  padding: 100px;
+}
+.myDiv {
+  border: 5px outset black;
+  background-color: orange;    
+  text-align: center;
+}
